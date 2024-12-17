@@ -30,7 +30,7 @@ Um fundo dinâmico com cores em transição contínua, proporcionando uma experi
 A organização dos arquivos é simples e direta:
 
 ```plaintext
-animacao-velas/
+animated-candles-with-css/
 │-- index.html # Estrutura HTML do projeto
 │-- style.css # Estilização e animações CSS
 └-- README.md # Documentação do projeto
@@ -97,14 +97,12 @@ Alterna entre cores usando `@keyframes`.
 }
 ```
 
-🎨 Captura de Tela
+## 🎨 Captura de Tela
 
-Substitua pelo link da imagem para demonstrar o projeto.📜 Licença
+Em breve!
 
-Este projeto está sob a licença MIT, o que significa que você pode utilizá-lo livremente para fins pessoais e comerciais.
+## 💡 Inspiração
 
-💡 Inspiração
-
-Este projeto foi desenvolvido para demonstrar o poder do CSS puro na criação de animações interativas e criativas.
+Este projeto foi desenvolvido para demonstrar o poder do **CSS puro** na criação de animações interativas e criativas.
 
 Se gostou do projeto, deixe uma estrela ⭐ no repositório!
