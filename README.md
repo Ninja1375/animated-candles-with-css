@@ -69,7 +69,7 @@ Simula o balanço natural do fogo.
 
 ```css
 @keyframes dance-fire {
-   0%, 100% { transform: rotate(0deg); }     50% { transform: rotate(2deg); }
+0%, 100% { transform: rotate(0deg); }    50% { transform: rotate(2deg); }
 }
 ```
 
@@ -91,7 +91,8 @@ Alterna entre cores usando `@keyframes`.
 ```css
 @keyframes change-background {
    0% { background-color: #fef3d3; }
-   50% { background-color: #ffccbc; }        100% { background-color: #fef3d3; }
+   50% { background-color: #ffccbc; }
+   100% { background-color: #fef3d3; }
 }
 ```
 
