@@ -69,7 +69,8 @@ Simula o balanço natural do fogo.
 
 ```css
 @keyframes dance-fire {
-0%, 100% { transform: rotate(0deg); }    50% { transform: rotate(2deg); }
+    0%, 100% { transform: rotate(0deg); }
+    50% { transform: rotate(2deg); }
 }
 ```
 
