@@ -30,7 +30,11 @@ Um fundo dinâmico com cores em transição contínua, proporcionando uma experi
 A organização dos arquivos é simples e direta:
 
 ```plaintext
-animacao-velas/ │-- index.html # Estrutura HTML do projeto │-- style.css # Estilização e animações CSS └-- README.md # Documentação do projeto 
+animacao-velas/
+│-- index.html # Estrutura HTML do projeto
+│-- style.css # Estilização e animações CSS
+└-- README.md # Documentação do projeto
+```
 
 🎥 Pré-visualização
 
