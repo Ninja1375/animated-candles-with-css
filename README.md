@@ -43,7 +43,7 @@ Para visualizar a animação:
 Faça o clone do projeto:
 
    ```bash
-   git clone <URL_DO_SEU_REPOSITÓRIO>
+   git clone https://github.com/Ninja1375/animated-candles-with-css.git
    ```
 
 Abra o arquivo `index.html` em qualquer navegador moderno.
