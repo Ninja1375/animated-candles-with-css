@@ -36,53 +36,49 @@ animacao-velas/
 └-- README.md # Documentação do projeto
 ```
 
-🎥 Pré-visualização
+## 🎥 Pré-visualização
 
 Para visualizar a animação:
 
 Faça o clone do projeto:
 
-bash
+   ```bash
+   git clone <URL_DO_SEU_REPOSITÓRIO>
+   ```
 
-Copiar código
+Abra o arquivo `index.html` em qualquer navegador moderno.
 
-git clone <URL_DO_SEU_REPOSITÓRIO> 
+## 🛠️ Como Funciona
 
-Abra o arquivo index.html em qualquer navegador moderno.🛠️ Como FuncionaPrincipais Animações
+Principais Animações
 
-Olhos Piscando
+**Olhos Piscando**
 
-Criado com @keyframes alternando a opacidade e altura dos olhos.
+Criado com `@keyframes` alternando a opacidade e altura dos olhos.
 
-css
+```css
+   @keyframes blink-eyes { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.1); } }
+   ```
 
-Copiar código
-
-@keyframes blink-eyes { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.1); } } 
-
-Movimento da Chama
+**Movimento da Chama**
 
 Simula o balanço natural do fogo.
 
-css
+   ```css
+   @keyframes dance-fire { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(2deg); } }
+   ```
 
-Copiar código
-
-@keyframes dance-fire { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(2deg); } } 
-
-Fumaça Subindo
+**Fumaça Subindo**
 
 Animação suave movendo elementos para cima e para os lados.
 
-css
+```css
+   @keyframes move-smoke { 0% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; transform: translateY(-50px); } }
+   ```
 
-Copiar código
+**Fundo Dinâmico**
 
-@keyframes move-smoke { 0% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; transform: translateY(-50px); } } 
-
-Fundo Dinâmico
-
-Alterna entre cores usando @keyframes.
+Alterna entre cores usando `@keyframes`.
 
 css
 
