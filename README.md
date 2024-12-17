@@ -1,29 +1,35 @@
-# animated-candles-with-css
-Animated Candles with CSS
+# Animated Candles with CSS
+
 Este projeto apresenta uma animação criativa de velas utilizando HTML5 e CSS3 puro, com elementos interativos e visuais que incluem olhos piscando, chamas dançantes e efeitos de fundo dinâmicos.
 
-🔥 Destaques da Animação
+## 🔥 Destaques da Animação
 
 Velas com expressões faciais animadas
 Os olhos piscam em intervalos realistas, criando uma expressão divertida e envolvente.
 
-Chama da vela animada
+**Chama da vela animada**
+
 O movimento sutil da chama simula o efeito natural do fogo utilizando keyframes CSS.
 
-Efeitos de fumaça
+**Efeitos de fumaça**
+
 A fumaça se dissipa com animações suaves, trazendo mais realismo ao projeto.
 
-Transições de fundo
+**Transições de fundo**
+
 Um fundo dinâmico com cores em transição contínua, proporcionando uma experiência visual agradável.
 
-🚀 Tecnologias UtilizadasHTML5: Estrutura básica do projeto.CSS3: Estilização, keyframes e animações puras.📂 Estrutura do Projeto
+## 🚀 Tecnologias Utilizadas
+
+**HTML5:** Estrutura básica do projeto.
+
+**CSS3:** Estilização, keyframes e animações puras.
+
+## 📂 Estrutura do Projeto
 
 A organização dos arquivos é simples e direta:
 
-plaintext
-
-Copiar código
-
+```plaintext
 animacao-velas/ │-- index.html # Estrutura HTML do projeto │-- style.css # Estilização e animações CSS └-- README.md # Documentação do projeto 
 
 🎥 Pré-visualização
@@ -92,31 +98,3 @@ Este projeto está sob a licença MIT, o que significa que você pode utilizá-l
 Este projeto foi desenvolvido para demonstrar o poder do CSS puro na criação de animações interativas e criativas.
 
 Se gostou do projeto, deixe uma estrela ⭐ no repositório!
-
-📬 Contato
-
-Para dúvidas ou sugestões, entre em contato:
-
-Nome: MatheusPortfólio: Seu Link AquiEmail: seu-email@exemplo.com
-
-4o
-
-Você disse:
-
-Qual o melhor nome para o repositório deste projeto?
-
-O ChatGPT disse:
-
-ChatGPT
-
-Aqui estão algumas sugestões de nomes para o repositório deste projeto, levando em conta a criatividade e a simplicidade:
-
-animated-candleshtml-css-candlesflaming-candles-animationcss-fire-and-smokecandle-light-showanimated-candles-effecthtml5-css3-candlescandles-with-smokecss-candle-animationdynamic-candle-scene
-
-Recomendação: Se o foco é manter simples e direto, o nome animated-candles ou css-candle-animation é ideal, pois descreve claramente o que o projeto oferece.
-
-4o
-
-window.__oai_logHTML?window.__oai_logHTML():window.__oai_SSR_HTML=window.__oai_SSR_HTML||Date.now();requestAnimationFrame((function(){window.__oai_logTTI?window.__oai_logTTI():window.__oai_SSR_TTI=window.__oai_SSR_TTI||Date.now()}))
-
-
