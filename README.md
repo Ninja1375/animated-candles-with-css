@@ -80,8 +80,8 @@ Animação suave movendo elementos para cima e para os lados.
 
 ```css
 @keyframes move-smoke {
-   0% { opacity: 1; transform: translateY(0); }
-   100% { opacity: 0; transform: translateY(-50px); }
+    0% { opacity: 1; transform: translateY(0); }
+    100% { opacity: 0; transform: translateY(-50px); }
 }
 ```
 
