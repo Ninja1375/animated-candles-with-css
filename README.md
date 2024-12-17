@@ -58,8 +58,8 @@ Criado com `@keyframes` alternando a opacidade e altura dos olhos.
 
 ```css
 @keyframes blink-eyes {
-   0%, 100% { transform: scaleY(1);}
-   50% { transform: scaleY(0.1);}
+   0%, 100% { transform: scaleY(1); }
+   50% { transform: scaleY(0.1); }
 }
 ```
 
@@ -67,30 +67,35 @@ Criado com `@keyframes` alternando a opacidade e altura dos olhos.
 
 Simula o balanço natural do fogo.
 
-   ```css
-   @keyframes dance-fire { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(2deg); } }
-   ```
+```css
+@keyframes dance-fire {
+   0%, 100% { transform: rotate(0deg); }     50% { transform: rotate(2deg); }
+}
+```
 
 **Fumaça Subindo**
 
 Animação suave movendo elementos para cima e para os lados.
 
 ```css
-   @keyframes move-smoke { 0% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; transform: translateY(-50px); } }
-   ```
+@keyframes move-smoke {
+   0% { opacity: 1; transform: translateY(0); }
+   100% { opacity: 0; transform: translateY(-50px); }
+}
+```
 
 **Fundo Dinâmico**
 
 Alterna entre cores usando `@keyframes`.
 
-css
-
-Copiar código
-
-@keyframes change-background { 0% { background-color: #fef3d3; } 50% { background-color: #ffccbc; } 100% { background-color: #fef3d3; } } 
+```css
+@keyframes change-background {
+   0% { background-color: #fef3d3; }
+   50% { background-color: #ffccbc; }        100% { background-color: #fef3d3; }
+}
+```
 
 🎨 Captura de Tela
-
 
 Substitua pelo link da imagem para demonstrar o projeto.📜 Licença
 
