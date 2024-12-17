@@ -58,12 +58,10 @@ Criado com `@keyframes` alternando a opacidade e altura dos olhos.
 
 ```css
 @keyframes blink-eyes {
-0%, 100% { transform: scaleY(1);
-   }
-   50% {
-   transform: scaleY(0.1);}
-   }
-   ```
+   0%, 100% { transform: scaleY(1);}
+   50% { transform: scaleY(0.1);}
+}
+```
 
 **Movimento da Chama**
 
