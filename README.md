@@ -91,9 +91,9 @@ Alterna entre cores usando `@keyframes`.
 
 ```css
 @keyframes change-background {
-   0% { background-color: #fef3d3; }
-   50% { background-color: #ffccbc; }
-   100% { background-color: #fef3d3; }
+    0% { background-color: #fef3d3; }
+    50% { background-color: #ffccbc; }
+    100% { background-color: #fef3d3; }
 }
 ```
 
