@@ -102,7 +102,8 @@ Alterna entre cores usando `@keyframes`.
 
 ## 🎨 Captura de Tela
 
-Em breve!
+![Velas Animadas com CSS ](https://github.com/user-attachments/assets/3d61d93f-0708-4f29-9bd8-1bcc59145dae)
+
 
 ## 💡 Inspiração
 
